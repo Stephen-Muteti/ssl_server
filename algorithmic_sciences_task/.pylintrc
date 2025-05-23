@@ -1,0 +1,6 @@
+[MESSAGES CONTROL]
+disable=redefined-outer-name,duplicate-code
+
+[MASTER]
+ignore=.venv,__pycache__,__init__.py,build,dist,certs
+ignore-patterns=.*\.txt,.*\.png,.*\.ini,.*\.toml,.*\.md
